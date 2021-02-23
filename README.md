@@ -2,7 +2,7 @@
 
 ### Show some :heart: and star the repo to support the project
 
-<a href="https://www.linkedin.com/in/ashwin-bicholiya-9938481a0/">
+<a href="https://www.linkedin.com/in/syedsohanahmed/">
   <img align="left" alt="Ashwin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>[Linkedin]
 <br/>
